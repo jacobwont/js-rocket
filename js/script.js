@@ -2,7 +2,11 @@ var apple
 
 var banana
 
-banana = 3
+var mango
 
-apple = 2
+		banana = 3
+
+		apple = 2
+
+		mango = 4
 

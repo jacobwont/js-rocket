@@ -1,6 +1,6 @@
 body{
 
-	background-color: blue;
+	background-color: black;
 	text-decoration: underline;
 
 
@@ -9,8 +9,12 @@ body{
 p{
 
 	background-color: grey;
-	font-size: 18px;
-	color: white;
+	font-size: 20px;
+	padding: 30px;
+	font-family: monospace;
+	background-color: white;
+	color: black;
+
 	
 
 }
